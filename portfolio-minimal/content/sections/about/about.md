@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/Yinmu.jpeg"
+imageAlt: "About Yinmu"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Thanks for visiting! I'm Yinmu, a Software Developer, a Langauge Teacher and Mum to a cheeky kitty baby called Mochi. Would you like a cuppa coffee? ☕
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I have been working as a teacher for a few years before becoming a Software Developer, thanks to the Pandemic in 2020/2021 when I explored and used a wide range of EdTech to engage students online. I soon discovered that I would love to build something - something interesting, helpful and can make complex processes faster, easier and more convenient.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I then learned how to code, and still learning more toolings to develop better applications. I am so happy that I find something I enjoy doing, and I cannot wait to build things together!👩🏻‍💻
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Visit my <a href="https://github.com/ymcodespace" aria-label="External Link"><u>Github</u></a>, or add me on <a href="https://www.linkedin.com/in/yinmu-liu/" aria-label="External Link"><u>Linkedin</u></a>!
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Oh, by the way, Mochi is here. See if you can catch him 😉.
